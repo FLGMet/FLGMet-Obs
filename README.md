@@ -1,4 +1,4 @@
-# FLGMet-Obs (Station d'observation Météo adapté à l'aéronautique)
+# FLGMet-Obs (Station d'observation Météo automatique adaptée à l'aéronautique)
 
 Cette application fournit des données météo en temps réel à partir d'une station météo utilisant un ESP32 et des capteurs tels que SHT35, SPS30, etc. Les données sont envoyées via WebSocket à une interface web, et stockées dans une base de données PostgreSQL.
 
