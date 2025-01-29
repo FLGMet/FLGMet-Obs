@@ -5,7 +5,7 @@ Découvrez un projet unique dédié à l’**observation météorologique au sol
 
 Imaginez accéder à des **relevés en temps réel** : température, vitesse et direction du vent, visibilité, pression atmosphérique… Autant de paramètres critiques mesurés par des capteurs intelligents, des stations météo connectées et des réseaux de passionnés. Ces données, vitales pour les pilotes, les contrôleurs aériens ou les préparateurs de vol, sont visualisables sur une interface interactive, avec des alertes personnalisables pour anticiper les risques (brouillard, rafales, etc.).  
 
-Il est important de noter que toutt repose sur les normes OMM et OACI.
+Il est important de noter que tout repose sur les normes OMM et OACI.
 
 Rejoignez une communauté où chaque observation au sol compte : que vous soyez spotteur d’orages, technicien aéroportuaire ou simple passionné, votre contribution éclaire les décisions qui font voler l’aéronautique plus haut. **Parce qu’un ciel maîtrisé commence par une terre observée !** 🌦️🛫
 
