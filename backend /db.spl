@@ -1,0 +1,15 @@
+CREATE TABLE weather_data (
+    id SERIAL PRIMARY KEY,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    temperature REAL,
+    humidity REAL,
+    pressure REAL,
+    wind_speed REAL,
+    wind_direction INT,
+    solar_radiation REAL,
+    rainfall REAL,
+    visibility REAL,
+    pm25 REAL
+);
+
+CREATE INDEX idx_weather_timestamp ON weather_data (timestamp);
