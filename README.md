@@ -8,18 +8,3 @@ Son interface web locale intuitive offre une visualisation claire des données s
 
 FLGMet-Obs allie performance et accessibilité, transformant la collecte et l’analyse des données météo en un processus fluide et automatisé.
 
-## Prérequis
-
-- ESP32
-- Django 4.1+
-- PostgreSQL
-- Python 3.7+
-
-## Installation
-
-### Backend
-
-1. Installe les dépendances :
-
-```bash
-pip install -r requirements.txt
